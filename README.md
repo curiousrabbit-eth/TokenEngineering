@@ -2,6 +2,6 @@
 
 > Check out my latest work [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
 
-> Looking for great Web3 Apps? [Web3 Applications](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3%20Applications.md)
+> SOA of the Future? [Web3tools](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3%20Applications.md)
 
 > Want to learn more? [Learning Materials]
