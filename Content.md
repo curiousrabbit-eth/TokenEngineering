@@ -1,3 +1,7 @@
+#2023 Content
+
+> It's coming baby
+
 # 2022 Content
 
 #### My First Article that helped me quit my job and start my journey into Token Engineering
@@ -5,7 +9,7 @@
 - [How To Build Sustainable Token Economies](https://mirror.xyz/curiousrabbit.eth/IHaOnyhG3iiKMdShYx84zGaiGP70qZaHMsqR6Iih5UQ)
 
 
-# Tweets ~ Videos & Machination Models
+# Tweets ~ Videos ~ Machination Models
 
 #### I started my journey learning out loud
 
