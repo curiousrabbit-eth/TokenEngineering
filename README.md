@@ -1,7 +1,9 @@
 # Down the Rabbithole of Token Engineering & Web3
 
-> Check out my latest work [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
+Welcome friend. I compile stuff i like and do here. Hope you enjoy 💙
 
-> SOA of the Future? [Web3tools](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3%20Applications.md)
+> Check out my latest work ~ [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
 
-> Want to learn more? [Learning Materials]
+> SOA of the Future ~ [Web3tools](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3%20Applications.md)
+
+> Hungry to Learn More ~ [Learning Materials]
