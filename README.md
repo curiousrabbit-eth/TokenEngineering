@@ -1,4 +1,4 @@
-# Bienvenido Down the Rabbithole of Token Engineering & Web3
+# Down the Rabbithole of Token Engineering & Web3
 
 > Check out my latest work [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
 
