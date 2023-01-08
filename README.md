@@ -7,7 +7,9 @@ Current Projects:
 
 > Check out my Latest Posts ~ [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
 
-> SOA of the Future ~ [Web3tools](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3%20Applications.md)
+> SOA of the Future ~ [Web3tools](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3Tools.md)
+
+> Tools for Token Engineering ~ [TokenTools]
 
 > Hungry to Learn More ~ [Learning Resources](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/LearningResources.md)
 
