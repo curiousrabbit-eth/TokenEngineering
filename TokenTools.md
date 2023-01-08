@@ -14,4 +14,10 @@
 - [Gauntlet](https://gauntlet.network/)
 - [Metanomic](https://www.metanomic.net/)
 
+## Token Design Firms
+
+- [Economic Design](https://economicsdesign.com/)
+- [Nomiks](https://nomiks.io/)
+- [Jarvis Labs](https://tokendesign.jarvis-labs.xyz/)
+
 
