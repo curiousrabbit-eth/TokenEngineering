@@ -11,4 +11,4 @@
 
 ## Thought Leadership
 
-- [The Dire Need for an Open Society, Daniel Schmachtenberger](https://twitter.com/curiousrabbit27/status/1479151095448547332?s=20&t=UBHdf_O-xn22QQ4e1XCYhw)
+- [The Dire Need for an Open Society, Daniel Schmachtenberger, Podcast](https://twitter.com/curiousrabbit27/status/1479151095448547332?s=20&t=UBHdf_O-xn22QQ4e1XCYhw)
