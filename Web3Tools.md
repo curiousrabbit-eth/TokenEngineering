@@ -15,4 +15,5 @@
 
 ## Wallets & Supporting Apps
 
--[Warm](https://warm.xyz)
+- [Warm](https://warm.xyz) ~ link cold wallet to hot wallet to use cold wallet safely
+- [Delegate Cash](https://delegate.cash/) ~ link cold wallet to hot wallet to use cold wallet safely
