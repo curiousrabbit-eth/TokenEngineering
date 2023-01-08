@@ -14,6 +14,12 @@
 - [Gauntlet](https://gauntlet.network/)
 - [Metanomic](https://www.metanomic.net/)
 
+## Token Standards
+
+
+## Smart Contract Standards
+
+
 ## Token Design Firms
 
 - [Economic Design](https://economicsdesign.com/)
