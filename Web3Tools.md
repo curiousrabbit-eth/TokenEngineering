@@ -12,3 +12,7 @@
 - [Superfluid](https://www.superfluid.finance/) ~ Asset streaming for salaries and rewards
 
 - [Onramper](https://onramper.com/) ~ Fiat to Crypto rails aggregator
+
+## Wallets & Supporting Apps
+
+-[Warm](https://warm.xyz)
