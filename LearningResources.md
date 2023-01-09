@@ -16,6 +16,7 @@
 - [Thinking in Systems, Book](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
 - [Crash Course in Mechanism Design](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 - [Incentives Gone Wrong, Short Article](https://fs.blog/incentives-gone-wrong/)
+- [When Tokens Shape Behavior](https://nystrom.substack.com/p/when-tokens-shape-behavior)
 - [Rules for Rulers, Video](https://twitter.com/curiousrabbit27/status/1567147523852189697?s=20&t=UBHdf_O-xn22QQ4e1XCYhw)
 
 ## Thought Leadership
