@@ -1,3 +1,7 @@
+## Token Launching
+
+- [How to Launch a Token, Article](https://crypto.nateliason.com/p/tokenomics-104-launch)
+
 ## Token Engineering
 
 - [Token Engineering Academy, TEA Course](https://tokenengineering.net/)
