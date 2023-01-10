@@ -42,7 +42,7 @@
 
 > Opinion Pieces
 - [Giving big brands, big tools](https://twitter.com/curiousrabbit27/status/1603741793446776834?s=20&t=McN1oUVa1HHklPqQL32gIg)
-- [When Token Engineering Really Matters]()https://twitter.com/curiousrabbit27/status/1601937650327371776?s=20&t=McN1oUVa1HHklPqQL32gIg
+- [When Token Engineering Really Matters](https://twitter.com/curiousrabbit27/status/1601937650327371776?s=20&t=McN1oUVa1HHklPqQL32gIg)
 - [Time for a New Social Contract?](https://twitter.com/curiousrabbit27/status/1593183686304096256?s=20&t=McN1oUVa1HHklPqQL32gIg)
 - [What Makes a Good Valuable? pt1](https://twitter.com/curiousrabbit27/status/1592207527240171521?s=20&t=McN1oUVa1HHklPqQL32gIg)
 - [What Makes a Good Valuable? pt2](https://twitter.com/curiousrabbit27/status/1592461489751085058?s=20&t=McN1oUVa1HHklPqQL32gIg)
