@@ -1,6 +1,6 @@
 # 2023 Content
 
-> It's coming baby
+> On the horizon...busy with projects
 
 # 2022 Content
 
