@@ -6,6 +6,10 @@
 
 - [Resonate](https://www.resonate.finance/) ~ FNFTs-as-a-service [explainer](https://revestfinance.medium.com/resonate-launch-details-54d2042de9a5)
 
+## Token Launch
+
+- [Pulley](https://pulley.com/products/crypto) ~ Compliantly manage, track and distribute tokens all on Pulley
+
 
 ## Web3 Biz Operation
 
