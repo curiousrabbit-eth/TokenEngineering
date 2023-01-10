@@ -20,4 +20,5 @@
 
 ## DAO Tools
 
+- [DAO Masters](https://www.daomasters.xyz/) ~ Aggregator for all sorts of DAO Tools
 - [Govrn](https://linktr.ee/Govrn) ~ Track, Record, Own DAO contributions
