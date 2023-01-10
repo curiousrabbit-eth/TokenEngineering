@@ -10,7 +10,7 @@ Current Projects:
 Recently Finished:
 - [Balancer x Symmetric x GoodDollar](https://medium.com/@BalancerGrants/multi-token-bonding-curves-to-bring-balancer-boosted-pools-to-refi-c6ba59ce7c4b) ~
 [Deliverable](https://auspicious-cap-b5c.notion.site/Balancer-x-GoodDollar-x-Symmetric-Research-2e5da10786644ccc8ae19b01acc4953b)
-- Scoping [Autonolas](https://www.autonolas.network/) for company ~ [Deliverable](https://auspicious-cap-b5c.notion.site/Autonolas-1bb07159253f4fb7babaf1409dd5529c)
+- Scoping [Autonolas](https://www.autonolas.network/) for priv. company ~ [Deliverable](https://auspicious-cap-b5c.notion.site/Autonolas-1bb07159253f4fb7babaf1409dd5529c)
 
 > Check out my Latest Posts ~ [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
 
