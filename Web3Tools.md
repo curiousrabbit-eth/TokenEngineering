@@ -8,7 +8,8 @@
 
 ## Token Launch
 
-- [Pulley](https://pulley.com/products/crypto) ~ Compliantly manage, track and distribute tokens all on Pulley
+- [Pulley](https://pulley.com/products/crypto) ~ Compliantly manage, track and distribute tokens all on Pulley (centralized org)
+- [Fjord Foundry](https://fjordfoundry.com/) ~ Balancer Liquidity Bootstrapping Pools
 
 
 ## Web3 Biz Operation
