@@ -1,6 +1,6 @@
 # 2023 Content
 
-> On the horizon...busy with projects
+> [Autonolas Intro](https://twitter.com/curiousrabbit27/status/1613671930686541829?s=20&t=zhbmMG8OZDRGiKb4NXfA7A)
 
 # 2022 Content
 
