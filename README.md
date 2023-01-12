@@ -3,9 +3,10 @@
 Welcome friend. I compile stuff i like and do here. Just started this (Jan 2023) and will continue to build the resources here. Hope you enjoy 💙
 
 Current Projects: 
-- [The Open Data Community](https://discord.gg/8zMHkgscrf) 
 - [AVATR](https://avatrdapp.org/) 
 - [Machinations Service Provider](https://machinations.io/)
+- [The Open Data Community](https://discord.gg/8zMHkgscrf)
+- [MetaPortal DAO](https://www.metaportal.wtf/)  
 
 Recently Finished:
 - [Balancer x Symmetric x GoodDollar](https://medium.com/@BalancerGrants/multi-token-bonding-curves-to-bring-balancer-boosted-pools-to-refi-c6ba59ce7c4b) ~
