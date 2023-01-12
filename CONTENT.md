@@ -1,4 +1,9 @@
 # 2023 Content
+### Articles
+
+- [Fundraising Mechanisms for Web3 Startups](https://mirror.xyz/curiousrabbit.eth/EkWkkPzfK-7-PbNtx2ab2He1YiEMzCbJ3agFej-WqaI)
+
+### Tweets ~ Videos ~ Machination Models
 
 > Web3 Tools
 - [Autonolas, Web2 meet Web3](https://twitter.com/curiousrabbit27/status/1613671930686541829?s=20&t=zhbmMG8OZDRGiKb4NXfA7A)
@@ -10,7 +15,7 @@
 - [How To Build Sustainable Token Economies](https://mirror.xyz/curiousrabbit.eth/IHaOnyhG3iiKMdShYx84zGaiGP70qZaHMsqR6Iih5UQ)
 
 
-# Tweets ~ Videos ~ Machination Models
+### Tweets ~ Videos ~ Machination Models
 
 #### I started my journey learning out loud
 
