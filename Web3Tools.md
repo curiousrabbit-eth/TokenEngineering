@@ -5,7 +5,7 @@
 ## DeFi Tools
 
 - [Resonate](https://www.resonate.finance/) ~ FNFTs-as-a-service [explainer](https://revestfinance.medium.com/resonate-launch-details-54d2042de9a5)
-- [CVI Finance](https://cvi.finance/) ~ Trade Crypto Volatility 
+- [CVI Finance](https://cvi.finance/) ~ Trade Crypto Volatility [explainer](https://medium.com/@gbland94/understanding-the-crypto-volatility-index-cvi-how-to-trade-volatility-using-cvol-tokens-5d5517eff03a)
 
 ## Token Launch
 
