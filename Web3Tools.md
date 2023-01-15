@@ -5,6 +5,7 @@
 ## DeFi Tools
 
 - [Resonate](https://www.resonate.finance/) ~ FNFTs-as-a-service [explainer](https://revestfinance.medium.com/resonate-launch-details-54d2042de9a5)
+- [CVI Finance](https://cvi.finance/) ~ Trade Crypto Volatility 
 
 ## Token Launch
 
@@ -27,4 +28,4 @@
 
 - [DAO Masters](https://www.daomasters.xyz/) ~ Aggregator for all sorts of DAO Tools
 - [Govrn](https://linktr.ee/Govrn) ~ Track, Record, Own DAO contributions
-- [Factory DAO}(https://www.factorydao.xyz/) ~ Build, Launch, Manage your DAO
+- [Factory DAO](https://www.factorydao.xyz/) ~ Build, Launch, Manage your DAO
