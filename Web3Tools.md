@@ -29,3 +29,4 @@
 - [DAO Masters](https://www.daomasters.xyz/) ~ Aggregator for all sorts of DAO Tools
 - [Govrn](https://linktr.ee/Govrn) ~ Track, Record, Own DAO contributions
 - [Factory DAO](https://www.factorydao.xyz/) ~ Build, Launch, Manage your DAO
+- [Dework](https://dework.xyz/) ~ Web3 Task Manager
