@@ -5,6 +5,13 @@
 
 ### Tweets ~ Videos ~ Machination Models
 
+> Machinations
+- [Balancer Weighted Math](https://twitter.com/curiousrabbit27/status/1615423163755597825?s=20&t=2yQrx6F7u_6WI353Wib1lg)
+- [Balancer Model](https://twitter.com/curiousrabbit27/status/1614979321042554880?s=20&t=2yQrx6F7u_6WI353Wib1lg)
+
+> ODC
+- [ODC Hackathon](https://twitter.com/curiousrabbit27/status/1615880344049156096?s=20&t=2yQrx6F7u_6WI353Wib1lg)
+
 > Web3 Tools
 - [Autonolas, Web2 meet Web3](https://twitter.com/curiousrabbit27/status/1613671930686541829?s=20&t=zhbmMG8OZDRGiKb4NXfA7A)
 
