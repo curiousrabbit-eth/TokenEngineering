@@ -3,15 +3,11 @@
 Welcome friend. I compile stuff i like and do here. Just started this (Jan 2023) and will continue to build the resources here. Hope you enjoy 💙
 
 Current Projects: 
-- Launching Curious Rabbit Consulting
-- Machinations Service Provider ~ [Community Profile](https://machinations.io/community/curiousrabbit/)
-- [AVATR](https://avatrdapp.org/) ~ Tokenomics Advisor
+- [Curious Rabbit Consulting](https://www.curiousrabbit.xyz/)
+- Machinations Contracted Educator
 - [The Open Data Community](https://discord.gg/8zMHkgscrf) ~ Contributor
 
-Recently Finished:
-- [Balancer x Symmetric x GoodDollar](https://medium.com/@BalancerGrants/multi-token-bonding-curves-to-bring-balancer-boosted-pools-to-refi-c6ba59ce7c4b) ~
-[Deliverable](https://auspicious-cap-b5c.notion.site/Balancer-x-GoodDollar-x-Symmetric-Research-2e5da10786644ccc8ae19b01acc4953b)
-- Scoping [Autonolas](https://www.autonolas.network/) for priv. company ~ [Deliverable](https://auspicious-cap-b5c.notion.site/Autonolas-1bb07159253f4fb7babaf1409dd5529c)
+
 
 > Check out my Latest Posts ~ [CONTENT](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/CONTENT.md)
 
