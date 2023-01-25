@@ -1,7 +1,9 @@
 # 2023 Content
-### Articles
+### Articles & Documents
 
 - [Fundraising Mechanisms for Web3 Startups](https://mirror.xyz/curiousrabbit.eth/EkWkkPzfK-7-PbNtx2ab2He1YiEMzCbJ3agFej-WqaI)
+- [Research Grant with Balancer x Symmetric x GoodDollar](https://auspicious-cap-b5c.notion.site/Balancer-x-GoodDollar-x-Symmetric-Research-2e5da10786644ccc8ae19b01acc4953b)
+- [Scoping Autonolas](https://auspicious-cap-b5c.notion.site/Autonolas-1bb07159253f4fb7babaf1409dd5529c)
 
 ### Tweets ~ Videos ~ Machination Models
 
