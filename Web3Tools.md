@@ -34,3 +34,4 @@
 - [Govrn](https://linktr.ee/Govrn) ~ Track, Record, Own DAO contributions
 - [Factory DAO](https://www.factorydao.xyz/) ~ Build, Launch, Manage your DAO
 - [Dework](https://dework.xyz/) ~ Web3 Task Manager
+- [Quadratic Vote](https://quadraticvote.co/) ~ host quadratic voting events
