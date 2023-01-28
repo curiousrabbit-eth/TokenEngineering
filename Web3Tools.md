@@ -1,7 +1,7 @@
 ## Web2 - Web3 Integration
 
 - [Autonolas](https://www.autonolas.network/) ~ allows people to build Autonomous Agents & Services, that can perform complex logic offchain, quiery data from any API and execute transactions onchain.  My favorite find recently
-- [TableLand](https://tableland.xyz/) ~ permisionless relational database in SQL for Web3 
+- [TableLand](https://tableland.xyz/) ~ permissionless metadata protocol for EVM chains
 
 ## DeFi Tools
 
