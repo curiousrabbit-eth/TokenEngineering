@@ -14,6 +14,7 @@
 - [Fjord Foundry](https://fjordfoundry.com/) ~ Balancer Liquidity Bootstrapping Pools
 - [TokenSoft](https://www.tokensoft.io/) ~ fair launch platform for web3 communities
 - [Blockius](https://blockius.io/) ~ Token laucnhpad, vesting, distribution etc
+- [VTVL](https://vtvl.io/) ~ vesting tool
 
 ## Analytics
 
