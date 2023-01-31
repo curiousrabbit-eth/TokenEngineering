@@ -12,7 +12,8 @@
 
 - [Pulley](https://pulley.com/products/crypto) ~ Compliantly manage, track and distribute tokens all on Pulley (centralized org)
 - [Fjord Foundry](https://fjordfoundry.com/) ~ Balancer Liquidity Bootstrapping Pools
-- [https://www.tokensoft.io/](https://www.tokensoft.io/) ~ fair launch platform for web3 communities
+- [TokenSoft](https://www.tokensoft.io/) ~ fair launch platform for web3 communities
+- [Blockius](https://blockius.io/) ~ Token laucnhpad, vesting, distribution etc
 
 ## Analytics
 
