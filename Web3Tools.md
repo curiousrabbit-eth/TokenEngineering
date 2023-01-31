@@ -12,6 +12,7 @@
 
 - [Pulley](https://pulley.com/products/crypto) ~ Compliantly manage, track and distribute tokens all on Pulley (centralized org)
 - [Fjord Foundry](https://fjordfoundry.com/) ~ Balancer Liquidity Bootstrapping Pools
+- [https://www.tokensoft.io/](https://www.tokensoft.io/) ~ fair launch platform for web3 communities
 
 ## Analytics
 
@@ -51,3 +52,12 @@
 - [cadCAD](https://cadcad.org/)
 - [Gauntlet](https://gauntlet.network/)
 - [Metanomic](https://www.metanomic.net/)
+
+## ATS -Tokenizing Equity
+
+- [tZERO](https://www.tzero.com/)    
+- [Securitize](https://securitize.io/)    
+- [Polymath](https://polymath.network/)    
+- [Bitbond](https://www.bitbond.com/)    
+- [Tokeny Solutions](https://tokeny.com/)        
+- [Securrency](https://securrency.com/)
