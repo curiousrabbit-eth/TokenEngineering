@@ -1,6 +1,6 @@
 ## Designing Protocols
 
-- [Token Design](https://www.youtube.com/watch?v=GOkxDvq_8zQ) ~ Mental Models, Core Concepts
+- [Token Design](https://www.youtube.com/watch?v=GOkxDvq_8zQ), Video ~ Mental Models, Core Concepts
 
 ## Token Launching
 
