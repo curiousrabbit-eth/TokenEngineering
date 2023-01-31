@@ -27,6 +27,29 @@
 - [When Tokens Shape Behavior, Article](https://nystrom.substack.com/p/when-tokens-shape-behavior)
 - [Rules for Rulers, Video](https://twitter.com/curiousrabbit27/status/1567147523852189697?s=20&t=UBHdf_O-xn22QQ4e1XCYhw)
 
+## Templates for Building Your Own Tokenomics
+
+- [Outlier Ventures, Token Ecosystem Creation](https://outlierventures.io/wp-content/uploads/2021/06/Token-Ecosystem-Creation-Outlier-Ventures-PDF.pdf)
+- [Matty Tokenomics Design Canvas](https://linktr.ee/tokenomics)
+- [Tokenomics Design Framework, Tokenomics DAO Version](https://www.figma.com/community/file/1146029367992730229)
+- [Tokenomics Canvas Model, CuriousRabbit Version](https://www.figma.com/community/file/1164579003429105909) ~ One of the first things i made in the space
+- [Practical Token Engineering Exercise v2](https://www.figma.com/community/file/1166536964788706951) ~ Template for analyzing projects
+
+## Simmulations
+
+- [Machinations](https://machinations.io/)
+- [TEC Simmulator](https://config.tecommons.org/config/1)
+- [cadCAD](https://cadcad.org/)
+- [Gauntlet](https://gauntlet.network/)
+- [Metanomic](https://www.metanomic.net/)
+
+
+## Token Design Firms
+
+- [Economic Design](https://economicsdesign.com/)
+- [Nomiks](https://nomiks.io/)
+- [Jarvis Labs](https://tokendesign.jarvis-labs.xyz/)
+
 ## Thought Leadership
 
 - [The Dire Need for an Open Society, Daniel Schmachtenberger, Podcast](https://open.spotify.com/episode/4j5jsrsVzC639L8advUkO5?si=oGyoMVXRTTOKiTC8Q8sY5g)
