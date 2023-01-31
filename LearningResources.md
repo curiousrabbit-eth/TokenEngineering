@@ -1,3 +1,7 @@
+## Designing Protocols
+
+-[Token Design](https://www.youtube.com/watch?v=GOkxDvq_8zQ)
+
 ## Token Launching
 
 - [How to Launch a Token, Article](https://crypto.nateliason.com/p/tokenomics-104-launch)
