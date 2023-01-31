@@ -35,13 +35,6 @@
 - [Tokenomics Canvas Model, CuriousRabbit Version](https://www.figma.com/community/file/1164579003429105909) ~ One of the first things i made in the space
 - [Practical Token Engineering Exercise v2](https://www.figma.com/community/file/1166536964788706951) ~ Template for analyzing projects
 
-## Simmulations
-
-- [Machinations](https://machinations.io/)
-- [TEC Simmulator](https://config.tecommons.org/config/1)
-- [cadCAD](https://cadcad.org/)
-- [Gauntlet](https://gauntlet.network/)
-- [Metanomic](https://www.metanomic.net/)
 
 
 ## Token Design Firms
