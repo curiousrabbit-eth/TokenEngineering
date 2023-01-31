@@ -44,6 +44,7 @@
 - [Dework](https://dework.xyz/) ~ Web3 Task Manager
 - [Quadratic Vote](https://quadraticvote.co/) ~ host quadratic voting events
 - [Orbit](https://orbit.love/) ~ measure community activity
+- [DaoLens](https://www.daolens.com/blog)
 
 ## Simmulations
 
