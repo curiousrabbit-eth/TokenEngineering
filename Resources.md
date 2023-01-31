@@ -5,6 +5,7 @@
 ## Token Launching
 
 - [How to Launch a Token, Article](https://crypto.nateliason.com/p/tokenomics-104-launch)
+- [How to create Vesting in Tokenomics, Article](https://medium.com/coinmonks/token-vesting-the-complete-guide-to-creating-vesting-in-tokenomics-bf211b999f2f)
 
 ## Token Engineering
 
