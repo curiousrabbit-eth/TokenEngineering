@@ -43,3 +43,11 @@
 - [Dework](https://dework.xyz/) ~ Web3 Task Manager
 - [Quadratic Vote](https://quadraticvote.co/) ~ host quadratic voting events
 - [Orbit](https://orbit.love/) ~ measure community activity
+
+## Simmulations
+
+- [Machinations](https://machinations.io/)
+- [TEC Simmulator](https://config.tecommons.org/config/1)
+- [cadCAD](https://cadcad.org/)
+- [Gauntlet](https://gauntlet.network/)
+- [Metanomic](https://www.metanomic.net/)
