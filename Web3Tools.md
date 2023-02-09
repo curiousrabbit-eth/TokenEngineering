@@ -31,6 +31,7 @@
 - [Sequence](https://sequence.xyz/)
 - [Third Web](https://thirdweb.com/)
 - [Reach](https://www.reach.sh/)
+- [Utiliti](https://www.utiliti.ai/)
 
 
 ## Web3 Biz Operation
