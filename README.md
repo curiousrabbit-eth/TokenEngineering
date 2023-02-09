@@ -5,7 +5,6 @@ Welcome friend. I compile stuff i like and do here. Just started this (Jan 2023)
 Current Projects: 
 - [Curious Rabbit Consulting](https://www.curiousrabbit.xyz/)
 - Machinations Contracted Educator
-- [The Open Data Community](https://discord.gg/8zMHkgscrf) ~ Contributor
 
 
 
