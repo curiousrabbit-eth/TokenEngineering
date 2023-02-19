@@ -19,6 +19,10 @@
 - [VTVL](https://vtvl.io/) ~ vesting tool
 - [liquifi](https://www.liquifi.finance/) ~ launch & vesting tool
 
+## Staking
+
+- [CoinDelta](https://www.coindelta.io/) ~ non custodial Staking, delegation,
+
 ## Analytics
 
 - [Dune](https://dune.com/) - decentralized on chain analytics and dashboards
