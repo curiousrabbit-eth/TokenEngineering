@@ -3,12 +3,9 @@
 - [Autonolas](https://www.autonolas.network/) ~ allows people to build Autonomous Agents & Services, that can perform complex logic offchain, quiery data from any API and execute transactions onchain.  My favorite find recently
 - [TableLand](https://tableland.xyz/) ~ permissionless metadata protocol for EVM chains
 
-## DeFi Tools
+## DeFi Economic Management Tools
 
 - [Resonate](https://www.resonate.finance/) ~ FNFTs-as-a-service, EVM [explainer](https://revestfinance.medium.com/resonate-launch-details-54d2042de9a5)
-- [CVI Finance](https://cvi.finance/) ~ Trade Crypto Volatility, Arbitrum [explainer](https://medium.com/@gbland94/understanding-the-crypto-volatility-index-cvi-how-to-trade-volatility-using-cvol-tokens-5d5517eff03a)
-- [Sense](https://sense.finance/) ~ defi fixed income
-- [Element](https://www.element.fi/) ~ defi fixed yield
 
 ## Token Launch
 
