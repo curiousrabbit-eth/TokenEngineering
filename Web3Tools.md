@@ -42,6 +42,7 @@
 
 - [Superfluid](https://www.superfluid.finance/) ~ Asset streaming for salaries and rewards
 - [Onramper](https://onramper.com/) ~ Fiat to Crypto rails aggregator
+- [Otonomos](https://otonomos.com/) ~ online wizard for launching corporate entities around the world for different use cases (web3 geared)
 
 ## Wallets & Supporting Apps
 
