@@ -12,6 +12,6 @@ Current Projects:
 
 > SOA of the Future ~ [Web3tools](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Web3Tools.md)
 
-> Hungry to Learn More ~ [Resources](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/LearningResources.md)
+> Hungry to Learn More ~ [Resources](https://github.com/curiousrabbit-eth/TokenEngineering/blob/main/Resources.md)
 
 > Follow me on: [Twitter](https://twitter.com/curiousrabbit27) & [LinkedIn](https://www.linkedin.com/in/curiousrabbit/)
