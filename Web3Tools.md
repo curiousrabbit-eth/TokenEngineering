@@ -1,6 +1,10 @@
-## Web2 - Web3 Integration
+## Autonomous Agents
 
-- [Autonolas](https://www.autonolas.network/) ~ allows people to build Autonomous Agents & Services, that can perform complex logic offchain, quiery data from any API and execute transactions onchain.  My favorite find recently
+- [Autonolas](https://www.autonolas.network/) ~ allows people to build Autonomous Agents & Services, that can perform complex logic offchain, quiery data from any API and execute transactions onchain.
+- [Fetch](https://fetch.ai/)
+
+## Dynamic NFTs
+
 - [TableLand](https://tableland.xyz/) ~ permissionless metadata protocol for EVM chains
 
 ## DeFi Economic Management Tools
@@ -16,9 +20,9 @@
 - [VTVL](https://vtvl.io/) ~ vesting tool
 - [liquifi](https://www.liquifi.finance/) ~ launch & vesting tool
 
-## Staking
+## Web3 Marketing
 
-- [CoinDelta](https://www.coindelta.io/) ~ non custodial Staking, delegation,
+- [Addressable]((https://www.addressable.io/)) 
 
 ## Analytics
 
@@ -26,6 +30,7 @@
 - [Dapp Looker](https://dapplooker.com/) - no code blockchain data analytics
 - [Token Unlocks](https://token.unlocks.app/) - shows token unlocks + other tokenomics data
 - [Token Terminal](https://tokenterminal.com/)
+- [Token Track](https://tokentrack.co/)
 
 ## All in One Dev Toolkits
 
