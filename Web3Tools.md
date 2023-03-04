@@ -1,7 +1,8 @@
-## Autonomous Agents
+## Offchain - Onchain Integrations
 
-- [Autonolas](https://www.autonolas.network/) ~ allows people to build Autonomous Agents & Services, that can perform complex logic offchain, quiery data from any API and execute transactions onchain.
-- [Fetch](https://fetch.ai/)
+- [Autonolas](https://www.autonolas.network/) ~ Autonomous economic agents
+- [Fetch](https://fetch.ai/) ~ AEA
+- [Gelato](https://www.gelato.network/)
 
 ## Dynamic NFTs
 
