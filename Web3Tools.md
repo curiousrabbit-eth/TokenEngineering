@@ -23,7 +23,7 @@
 
 ## Web3 Marketing
 
-- [Addressable]((https://www.addressable.io/)
+- [Addressable](https://www.addressable.io/)
 
 ## Analytics
 
