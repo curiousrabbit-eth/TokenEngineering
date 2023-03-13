@@ -69,6 +69,7 @@
 - [cadCAD](https://cadcad.org/)
 - [Gauntlet](https://gauntlet.network/)
 - [Metanomic](https://www.metanomic.net/)
+- [Chaos Labs](https://chaoslabs.xyz/) - risk management
 
 ## ATS -Tokenizing Equity
 
