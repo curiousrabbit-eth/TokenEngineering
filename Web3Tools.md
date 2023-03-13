@@ -47,6 +47,11 @@
 - [Onramper](https://onramper.com/) ~ Fiat to Crypto rails aggregator
 - [Otonomos](https://otonomos.com/) ~ online wizard for launching corporate entities around the world for different use cases (web3 geared)
 
+## Market Makers
+
+- [Wintermute](https://www.wintermute.com/)
+
+
 ## Wallets & Supporting Apps
 
 - [Warm](https://warm.xyz) ~ link cold wallet to hot wallet to use cold wallet safely
