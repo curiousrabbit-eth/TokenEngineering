@@ -25,14 +25,6 @@
 
 - [Addressable](https://www.addressable.io/)
 
-## Analytics
-
-- [Dune](https://dune.com/) - decentralized on chain analytics and dashboards
-- [Dapp Looker](https://dapplooker.com/) - no code blockchain data analytics
-- [Token Unlocks](https://token.unlocks.app/) - shows token unlocks + other tokenomics data
-- [Token Terminal](https://tokenterminal.com/)
-- [Token Track](https://tokentrack.co/)
-
 
 ## All in One Dev Toolkits
 
@@ -86,43 +78,45 @@
 - [Tokeny Solutions](https://tokeny.com/)        
 - [Securrency](https://securrency.com/)
 
+### A list of the Web3 analytics stack 
 
-# A list of the Web3 analytics stack
+#### 🧠 Market Intelligence
+- [Glassnode (Research & data)](https://lnkd.in/e5t97RCE)
+- [Santiment (Data)](https://santiment.net/)
+- [Messari (Research & data)](https://lnkd.in/eZDnsMbK)
+- [Degenz.Finance (NFT Research & data)](https://www.degenz.finance/)
 
-🧠 Market intelligence
-– Glassnode (Research & data) https://lnkd.in/e5t97RCE 
-– Santiment (Data) https://santiment.net/ 
-– Messari (Research & data) https://lnkd.in/eZDnsMbK 
-– Degenz.Finance (NFT Research & data) www.degenz.finance/
+#### ⛓️ On-Chain Analytics
+- [Etherscan (Block explorer)](https://etherscan.io/)
+- [Nansen (On-chain analytics)](https://pro.nansen.ai/)
+- [Dune (On-chain dashboards)](https://lnkd.in/ewWeyvWV)
+- [Flipside (On-chain dashboards)](https://lnkd.in/egzFUiem)
 
-⛓️ On-Chain Analytics
-– Etherscan (Block explorer) https://etherscan.io/ 
-– Nansen (On-chain analytics) https://pro.nansen.ai/ 
-– Dune (On-chain dashboards) https://lnkd.in/ewWeyvWV
-– Flipside (On-chain dashboards) https://lnkd.in/egzFUiem
+#### 📈 Market Analytics
+- [CoinmarketCap (Markets)](https://coinmarketcap.com/)
+- [CoinGecko (Markets)](https://www.coingecko.com/)
+- [NFT Scan (NFT Markets)](https://www.nftscan.com/)
+- [CryptoSlam (NFT markets)](https://www.cryptoslam.io/)
+- [Minty Score (NFT drop rankings)](https://mintyscore.com/)
+- [DefiLama (Markets)](https://defillama.com/)
+- [DappRadar (Markets)](https://dappradar.com/)
+- [Token Terminal (Fundamentals)](https://lnkd.in/eKgFJSSw)
+- [Artemis (Fundamentals)](https://www.artemis.xyz/)
+- [Gecko Terminal (Markets)](https://lnkd.in/e6vUCWzM)
+- [Dapp Looker](https://dapplooker.com/) - no code blockchain data analytics
+- [Token Unlocks](https://token.unlocks.app/) - shows token unlocks + other tokenomics data
+- [Token Track](https://tokentrack.co/)
 
-📈 Market Analytics
-– CoinmarketCap (Markets) https://coinmarketcap.com/ 
-– CoinGecko (Markets) https://www.coingecko.com/ 
-– NFT Scan (NFT Markets) https://www.nftscan.com/ 
-– CryptoSlam (NFT markets) https://www.cryptoslam.io/ 
-– Minty Score (NFT drop rankings) https://mintyscore.com/ 
-– DefiLama (Markets) https://defillama.com/
-– DappRadar (Markets) https://dappradar.com/ 
-– Token Terminal (Fundamentals) https://lnkd.in/eKgFJSSw 
-– Artemis (Fundamentals) https://www.artemis.xyz/ 
-– Gecko Terminal (Markets) https://lnkd.in/e6vUCWzM
+#### 👥 Social Intelligence
+- [LunarCrush (Social sentiment)](https://lnkd.in/e4tguvjg)
 
-👥 Social Intelligence
-– LunarCrush (Social sentiment) https://lnkd.in/e4tguvjg
-
-✨ Other
-– Bubble Maps (Data visuals) https://lnkd.in/ensh6PD5 
-– Token Sniffer (Scam dedection) https://tokensniffer.com/ 
-– Fees.wtf (gas fee analytics) https://fees.wtf/#/ 
-– Crypto 51 (PoW 51% Attack Cost) https://www.crypto51.app/ 
-– Coin360 (Market sentiment) https://coin360.com/ 
-– CryptoMiso (GitHub activity) https://lnkd.in/egf9WrRg 
-– L2 Beat (Ethereum layer 2 stats) https://lnkd.in/eaS94Xfm 
-– ultrasound.money (Ether supply stats) https://ultrasound.money/ 
-– Etherscan (Ethereum gas tracker) https://lnkd.in/eRHJPhAv
+#### ✨ Other
+- [Bubble Maps (Data visuals)](https://lnkd.in/ensh6PD5)
+- [Token Sniffer (Scam detection)](https://tokensniffer.com/)
+- [Fees.wtf (gas fee analytics)](https://fees.wtf/#/)
+- [Crypto 51 (PoW 51% Attack Cost)](https://www.crypto51.app/)
+- [Coin360 (Market sentiment)](https://coin360.com/)
+- [CryptoMiso (GitHub activity)](https://lnkd.in/egf9WrRg)
+- [L2 Beat (Ethereum layer 2 stats)](https://lnkd.in/eaS94Xfm)
+- [ultrasound.money (Ether supply stats)](https://ultrasound.money/)
+- [Etherscan (Ethereum gas tracker)](https://lnkd.in/eRHJPhAv)
