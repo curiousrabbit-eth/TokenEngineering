@@ -11,6 +11,7 @@
 ## DeFi Economic Management Tools
 
 - [Resonate](https://www.resonate.finance/) ~ FNFTs-as-a-service, EVM [explainer](https://revestfinance.medium.com/resonate-launch-details-54d2042de9a5)
+- [Hedgey](https://hedgey.finance/)
 
 ## Token Launch
 
