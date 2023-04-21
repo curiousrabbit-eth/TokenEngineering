@@ -7,6 +7,7 @@
 ## Dynamic NFTs
 
 - [TableLand](https://tableland.xyz/) ~ permissionless metadata protocol for EVM chains
+- [RMRK](https://www.rmrk.app/) ~ nested, conditional, multi resourced NFTs
 
 ## DeFi Economic Management Tools
 
@@ -25,6 +26,12 @@
 ## Web3 Marketing
 
 - [Addressable](https://www.addressable.io/)
+
+## Gaming
+
+- [Hyperplay](https://www.hyperplay.xyz/) ~ Web3 game launcher
+- [Solsten](https://solsten.io/) ~ AI persona analysis
+- [Valist](https://www.valist.io/) ~ Open source game deployment
 
 
 ## All in One Dev Toolkits
