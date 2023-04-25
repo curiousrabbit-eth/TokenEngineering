@@ -76,6 +76,7 @@
 - [Gauntlet](https://gauntlet.network/)
 - [Metanomic](https://www.metanomic.net/)
 - [Chaos Labs](https://chaoslabs.xyz/) - risk management
+- [DefiSafety](https://www.defisafety.com/) - risk & process management
 
 ## ATS -Tokenizing Equity
 
