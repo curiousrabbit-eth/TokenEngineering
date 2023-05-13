@@ -28,6 +28,7 @@
 ## Web3 Marketing
 
 - [Addressable](https://www.addressable.io/)
+- [Galxe](https://galxe.com/) ~ Campaigns, reward users
 
 ## Gaming
 
