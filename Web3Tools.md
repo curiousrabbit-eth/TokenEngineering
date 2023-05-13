@@ -23,6 +23,7 @@
 - [Blockius](https://blockius.io/) ~ Token laucnhpad, vesting, distribution etc
 - [VTVL](https://vtvl.io/) ~ vesting tool
 - [liquifi](https://www.liquifi.finance/) ~ launch & vesting tool
+- [CapX](https://www.capx.fi/) ~ IOU Tokens
 
 ## Web3 Marketing
 
@@ -58,6 +59,7 @@
 
 - [Warm](https://warm.xyz) ~ link cold wallet to hot wallet to use cold wallet safely
 - [Delegate Cash](https://delegate.cash/) ~ Account Abstraction. Link cold wallet to hot wallet to use cold wallet safely
+- [Dynamic](https://www.dynamic.xyz/) ~ seemless web3 wallet onboarding
 
 ## DAO Tools
 
