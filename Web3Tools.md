@@ -3,6 +3,7 @@
 - [Autonolas](https://www.autonolas.network/) ~ Autonomous economic agents
 - [Fetch](https://fetch.ai/) ~ AEA
 - [Gelato](https://www.gelato.network/)
+- [Herodotus](https://www.herodotus.dev/) ~ onchain storage proofs
 
 ## Dynamic NFTs
 
