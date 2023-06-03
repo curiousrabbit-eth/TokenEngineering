@@ -72,6 +72,7 @@
 - [Quadratic Vote](https://quadraticvote.co/) ~ host quadratic voting events
 - [Orbit](https://orbit.love/) ~ measure community activity
 - [DaoLens](https://www.daolens.com/blog)
+- [Upstream](https://upstreamapp.com/) ~ DAO Launcher
 
 ## Simmulations
 
