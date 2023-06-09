@@ -37,6 +37,9 @@
 - [Solsten](https://solsten.io/) ~ AI persona analysis
 - [Valist](https://www.valist.io/) ~ Open source game deployment
 - [Balthazar](https://bltzr.gg/) ~ all in one gaming dev kit
+- [Blockus](https://www.blockus.gg/)
+- [Octalysis](https://octalysisgroup.com/)
+
 
 
 ## All in One Dev Toolkits
