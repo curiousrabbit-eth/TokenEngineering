@@ -5,10 +5,11 @@
 - [Gelato](https://www.gelato.network/)
 - [Herodotus](https://www.herodotus.dev/) ~ onchain storage proofs
 
-## Dynamic NFTs
+## NFTs
 
 - [TableLand](https://tableland.xyz/) ~ permissionless metadata protocol for EVM chains
 - [RMRK](https://www.rmrk.app/) ~ nested, conditional, multi resourced NFTs
+- [JPage](https://j.page/) ~ nft tooling (early stage 6/17)
 
 ## DeFi Economic Management Tools
 
@@ -48,6 +49,8 @@
 - [Third Web](https://thirdweb.com/)
 - [Reach](https://www.reach.sh/)
 - [Utiliti](https://www.utiliti.ai/)
+- [Foundry](https://github.com/foundry-rs) ~ Modular toolkit for Ethereum application development written in Rust.
+- [Steer Finance](https://steer.finance/) ~ cross chain dapp builder & data marketplace
 
 
 ## Web3 Biz Operation
