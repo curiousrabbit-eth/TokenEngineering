@@ -16,6 +16,7 @@
 - [Resonate](https://www.resonate.finance/) ~ FNFTs-as-a-service, EVM [explainer](https://revestfinance.medium.com/resonate-launch-details-54d2042de9a5)
 - [Hedgey](https://hedgey.finance/)
 - [Flowdesk](https://www.flowdesk.co/crypto-services/market-making) ~ market making
+- [BTC specific Wallet stuff](https://www.lopp.net/bitcoin-information/recommended-wallets.html)
 
 ## Token Launch
 
@@ -31,6 +32,8 @@
 
 - [Addressable](https://www.addressable.io/)
 - [Galxe](https://galxe.com/) ~ Campaigns, reward users
+- [Soulbound](https://soulbound.gg/) ~ soulbound player profiles
+- [DeQuest](https://beta.dequest.io/) ~ like rabbithole but for games
 
 ## Gaming
 
@@ -69,6 +72,8 @@
 - [Warm](https://warm.xyz) ~ link cold wallet to hot wallet to use cold wallet safely
 - [Delegate Cash](https://delegate.cash/) ~ Account Abstraction. Link cold wallet to hot wallet to use cold wallet safely
 - [Dynamic](https://www.dynamic.xyz/) ~ seemless web3 wallet onboarding
+- [Disperse](https://disperse.app/) ~ Distribute tokens to multiple wallets
+- [CET](https://cancel-ethereum-transactions.web.app/) ~ Cancel/Speedup Eth tranactions
 
 ## DAO Tools
 
