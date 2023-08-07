@@ -54,6 +54,7 @@
 - [Utiliti](https://www.utiliti.ai/)
 - [Foundry](https://github.com/foundry-rs) ~ Modular toolkit for Ethereum application development written in Rust.
 - [Steer Finance](https://steer.finance/) ~ cross chain dapp builder & data marketplace
+- [Quicknode](https://www.quicknode.com/)
 
 
 ## Web3 Biz Operation
