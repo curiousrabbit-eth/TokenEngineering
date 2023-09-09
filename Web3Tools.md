@@ -1,3 +1,9 @@
+## Cool Projects that are hard to categorize 
+
+- [Informal Systems](https://informal.systems/)
+- [TempleDAO](https://templedao.link/)
+- [Inverter](https://inverter.network/)
+
 ## Offchain - Onchain Integrations
 
 - [Autonolas](https://www.autonolas.network/) ~ Autonomous economic agents
@@ -43,7 +49,10 @@
 - [Balthazar](https://bltzr.gg/) ~ all in one gaming dev kit
 - [Blockus](https://www.blockus.gg/)
 - [Octalysis](https://octalysisgroup.com/)
-
+- [https://clevertap.com/gaming/](https://clevertap.com/gaming/) - Player Engagement Optimization
+- [Stardust](https://www.stardust.gg/) - NFT Gaming Infrastructure
+- [Dive](https://www.dive.games/) ~ Game Analytics
+- [Faraway](https://faraway.com/) ~ Web3 Gaming Dev Platform
 
 
 ## All in One Dev Toolkits
@@ -62,11 +71,16 @@
 - [Superfluid](https://www.superfluid.finance/) ~ Asset streaming for salaries and rewards
 - [Onramper](https://onramper.com/) ~ Fiat to Crypto rails aggregator
 - [Otonomos](https://otonomos.com/) ~ online wizard for launching corporate entities around the world for different use cases (web3 geared)
+- [XMTP](https://xmtp.org/) ~ Web3 Messaging Network
 
 ## Market Makers
 
 - [Wintermute](https://www.wintermute.com/)
 
+## Avatars
+
+- [Genies](https://genies.com/)
+- [Ready Player Me](https://readyplayer.me/)
 
 ## Wallets & Supporting Apps
 
