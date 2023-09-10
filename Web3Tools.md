@@ -11,6 +11,10 @@
 - [Gelato](https://www.gelato.network/)
 - [Herodotus](https://www.herodotus.dev/) ~ onchain storage proofs
 
+## AUditers
+
+- [Zellic](https://www.zellic.io/)
+
 ## NFTs
 
 - [TableLand](https://tableland.xyz/) ~ permissionless metadata protocol for EVM chains
